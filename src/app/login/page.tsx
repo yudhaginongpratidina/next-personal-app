@@ -1,7 +1,7 @@
 export default function Page() {
     return (
-        <div className="w-full min-h-screen flex justify-center items-center">
-            <div className="w-full max-w-screen-sm p-6 border flex flex-col gap-4">
+        <div className="w-full min-h-screen flex justify-center items-center bg-gray-100">
+            <div className="w-full max-w-screen-sm p-6 border flex flex-col gap-4 bg-white">
 
                 <h1 className="text-3xl font-bold">LOGIN</h1>
 
